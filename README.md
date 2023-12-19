@@ -1,2 +1,2 @@
 # pr_script
-scripts
+We are installing the following packages for you 
