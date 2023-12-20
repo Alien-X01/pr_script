@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt install apache2 -y
 sudo apt install bind9 -y
 sudo apt install isc-dhcp-server -y
 sudo apt install haproxy -y
